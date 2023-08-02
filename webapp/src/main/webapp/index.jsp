@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning at Sonata Software Limited </h1>
+    <h1>New User Register for DevOps Learning at Sonata Software Limited Bangalore</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank You So Much, Happy Learning </h1>
+   <h1> Thank You, Happy Learning </h1>
    <h1> See You Again </h1>
   
 </form>
