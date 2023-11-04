@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New User Register for DevOps Learning at Microsoft Corporation in India, Bangalore Global Village </h1>
+    <h1>New User Register for DevOps Learning at MyCompany in India, Bangalore Global Village </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
